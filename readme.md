@@ -69,6 +69,10 @@ Check the training progress on [Weights & Biases] (https://wandb.ai/010sachinmis
 
 (https://wandb.ai/010sachinmishra-international-institute-of-information-t/polygon-colorizer)
 
+https://wandb.ai/010sachinmishra-international-institute-of-information-t/polygon-colorizer?nw=nwuser010sachinmishra
+<img width="641" height="346" alt="image" src="https://github.com/user-attachments/assets/5c120909-821f-4f77-bef6-bcfc52e936be" />
+<img width="642" height="325" alt="image" src="https://github.com/user-attachments/assets/01e25a9f-6e22-4ef5-b7e2-52e51123cf52" />
+
 ## 🧪 Inference Demo
 
 After training, run the inference notebook:
