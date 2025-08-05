@@ -65,7 +65,9 @@ We track:
 - **Training and Validation Losses**
 - **Sample output visualizations**
 
-Check the training progress on [Weights & Biases](https://wandb.ai/) → ((https://wandb.ai/010sachinmishra-international-institute-of-information-t/polygon-colorizer))
+Check the training progress on [Weights & Biases] (https://wandb.ai/010sachinmishra-international-institute-of-information-t/polygon-colorizer/runs/fw8x478p)
+
+(https://wandb.ai/010sachinmishra-international-institute-of-information-t/polygon-colorizer)
 
 ## 🧪 Inference Demo
 
